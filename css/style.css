@@ -1,0 +1,25 @@
+body {
+    background: #a8d3c9;
+    background: -webkit-linear-gradient(to right, #95cde7, #aab6ee);
+    background: linear-gradient(to right, #a8d3c9, #aab6ee);
+}
+.container{
+    background: #a8d3c9;
+    background: -webkit-linear-gradient(to right, #95cde7, #aab6ee);
+    background: linear-gradient(to right, #a8d3c9, #aab6ee);
+}
+
+@media all and (max-width: 1200px) {
+    .page-content {
+        background: #a8d3c9;
+        background: -webkit-linear-gradient(to right, #95cde7, #aab6ee);
+        background: linear-gradient(to right, #a8d3c9, #aab6ee);
+    }
+
+    .container-xl {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+
